@@ -1,0 +1,12 @@
+.body{
+   
+    width:1340px;
+    height:590px;
+}
+.heading{
+    position: absolute;
+     font-family:Bradley Hand ITC ;
+     font-weight: bolder;
+     top:10%;
+     left:30%;
+}
