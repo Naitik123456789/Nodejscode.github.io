@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+   
+    display: flex;
+
+}
+.banner{
+    background-color: rgb(222, 220, 220);
+    width:20%;
+    margin:1%;
+    height:400px;
+    border-radius: 10px;
+}
+.img{
+    border-radius:10px;
+    margin: 6.3%;
+    width:87%;
+    height: 200px;
+}
+/* .main h1{
+    display:flex;
+}
+.main p{
+    display: flex;
+} */

@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-image:linear-gradient(75deg,pink,purple);
+}
+
+.main img{
+    width:50%;
+    margin-top:3.5%;
+    margin-left:10%;
+    height:500px;
+}
+.form{
+    background-color: white;
+    padding:50px;
+    width:20.8%;
+    position: absolute;
+    left:60%;
+    top:7.9%;
+    height:400px;
+}
+
+.h1{
+    font-size:40px;
+}
+.form p{
+    margin-top:10px;
+    font-size:15px;
+}
+
+.name{
+    margin-top:20px;
+    padding:10px;
+    width:98%;
+    border-radius:5%;
+    border: none;
+    border:1px black solid;
+}
+
+.email{
+    margin-top:20px;
+    padding:10px;
+    width:98%;
+    border-radius:5%;
+    border: none;
+    border:1px black solid;
+}
+
+.pass{
+    margin-top:20px;
+    padding:10px;
+    width:98%;
+    border-radius:5%;
+    border: none;
+    border:1px black solid;
+}
+.pa{
+    margin-top:5px;
+    margin-left:50%;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn{
+    border-radius:20%;
+    padding:10px;
+    background-color: greenyellow;
+    box-shadow:2px 2px 2px 2px greenyellow;
+    margin-top:10px;
+    margin-left:75%;
+}
+.h{
+    color: rgb(255, 14, 14);
+    font-size:90px;
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left:25%;
+    top:14%;
+}
+.h5{
+    position: absolute;
+    top:35%;
+    width:40%;
+    left:15%;
+    font-size:15px;
+}
+.h4{
+    position: absolute;
+    left:15%;
+    top:55%;
+    color: rgb(18, 247, 255);
+}
+.facebook{
+    position: absolute;
+    left:15%;
+    top:62%;
+    background-color: rgb(50, 50, 143);
+    color: white;
+    padding:10px;
+    border-radius:10px;
+}
+
+.instagram{
+    position: absolute;
+    left:28%;
+    top:62%;
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    color: white;
+    padding:10px;
+    border-radius:10px;
+}
+
+.twitter{
+    position: absolute;
+    left:40%;
+    top:62%;
+    background-color: rgb(24, 154, 215);
+    color: white;
+    padding:10px;
+    border-radius:10px;
+}
+
+.google{
+    position: absolute;
+    left:50%;
+    top:62%;
+    background-image:linear-gradient(30deg,#4885ed,#3cba54,#f4c20d,#db3236);
+    color: black;
+    padding:10px;
+    border-radius:10px;
+}
+.google i{
+    background-image:linear-gradient(#4885ed,#3cba54,#f4c20d,#db3236);
+}
+
+
+
